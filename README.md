@@ -20,7 +20,7 @@ Dentre os seis anos também foram executados trabalhos com linguagem de marcaç�
 
 -------------------------------------------------------------------------------------
 
-Objetivo
+### Objetivo
 
 Atuar na área de desenvolvimento Mobile como:
 
@@ -31,84 +31,42 @@ Atuar na área de desenvolvimento Mobile como:
 Em ambas os campos de atuação sempre visando aplicar meus conhecimentos para a realização das atividades a mim designada, buscando assim, desafíos e oportunidades.
 
 --------------------------------------------------------------------------------------
-Perfil Profissional
+## Perfil Profissional
 
+### Formação Acadêmica
 
+Ensino Médio em Completo - 2011
+Entidade: Escola Estadual Alberto Giovaninne
 
-Durante os 6 anos trabalhei em um pequena equipe de desenvolvedores e designers. Nesta equipe atuava como programador. Como forma de facilitar a atualização dos sistema desenvolvidos pela empresa, fiz parte da equipe que desenvolveu um CMS (target), o qual dava maior liberdade para o usuário final e facilitava o seu trabalho. Já como programador Ruby, além de fazer a migração dos sistemas antigos para a linguagem já citada, fui responsável na configuração dos servidores (staging e production).
-Escolaridade
+Curso Técnico em Completo - 2015
+Automação e Instrumentação - Entidade: Escola Padre José Maria de Man
 
-Ensino Superior em Completo - 2015
-Análise e Desenvolvimento de Sistemas - Entidade: IFMS (Institudo Federal de Mato Grosso do Sul)
+Ensino Superior em Curso - 2017
+Sistemas de Informação - Entidade: Rede Doctum de Ensino
 
-Ensino Superior Completo - 2011
-História - Entidade: UFMS ( Universidade Federal de Mato Grosso do Sul )
+### Experiência Profissional 
 
-Ensino Superior Incompleto - 2007
-Matemática - Entidade: UEMS ( Universidade Estadual de Mato Grosso do Sul )
-Experiência Profissional ( Áreas de TI )
+Gerenciar Sistemas Corporativos - De Julho de 2017 até o momento
+Cargo: Estagiário, programador mobile para plataformas nativas e hibridas 
+Extras: Desenvolvimento de Api's
 
-Agência W3 - De Setembro de 2014 até o momento
-Cargo: Programador Ruby (Ruby, Ruby on Rails, Postgre) Extras: Configuração e manutenção de servidores.
+Sir Tec Serviços Técnicos - De Janeiro de 2016 até Julho de 2017
+Cargo: Técnico de Manutenção
+Extras: Chaveiro
 
-Falando de Viagem - Março de 2014 à Setembro de 2014 (HomeOffice)
-Cargo: Programador Ruby (Ruby, Ruby on Rails, Mysql)
-Site: www.falandodeviagem.com.br
+Delta Engenharia - De Novembro de 2013 a Abril de 2015
+Cargo: Programador
+Extras: Desenvolvimento de sistemas e manutenção de banco de dados.
 
-W3Case Soluções Interativas - 2007 à 2014
-Cargo: Programador Web / WebStandard ( PHP, Mysql, JS, CSS... )
-Portfolio: www.luizpicolo.com.br
-Site: www.w3case.com.br
+#### Atividades Complementares e Cursos    
+    
+    •	Curso de Informática Básica (Cefop, conclusão em 2007);
+    •	Curso de Informática Avançada (Cefop, conclusão em 2008);
+    •	Curso de Manutenção de Computadores e Redes (Cefop, conclusão em 2008);
+    •	Curso de Web Designer (Cefop, conclusão em 2010).
+    •	Curso de HTML5 (Curso em Video, conclusão 2016).
+    •	Curso profissionalizante de Desenvolvedor de Sistemas em Python.(IFMG, conclusão 2016).
+    
+### Interesses profissionais
 
-TecWay Informática - 2004 à 2007
-Cargo: Suporte Técnico ( Suporte e Redes )
-Cursos de Aperfeiçoamento
-
-    Técnico em manutenção de sistemas. ( Microlins - Nova Andradina / MS )
-    Desenvolvimento Web Avançado. ( Sérgio Yamada - Maringá / PR)
-
-Algumas Tecnologias já Utilizadas
-
-    Banco de dados MySQL e Sqlite.
-    Desenvolvimento em PHP utilizando framework Codeigniter (Pleno)
-    Padronização de WebSites (Css e Html)
-
-Interesses profissionais
-
-Atualmente tenho como foco , Ruby, Ruby on Rails, Sinatra, metodologias ágeis, TDD, BDD, RSpec, PostgreSQL, Git, Continuous Integration, Nosql.
-
-You can use the [editor on GitHub](https://github.com/thayroneprog/Curriculo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thayroneprog/Curriculo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Atualmente tenho como foco o desenvolvimento Mobile.
