@@ -12,6 +12,7 @@ Dois anos de experiência na área de desenvolvimento mobile. Experiência de se
 Também tenho adquirido experiencias e conhecimento na construção de API's voltadas aos App's que foi desenvolvido.
 
 No meio acadêmico foi executados trabalhos com C# e banco de dados SqlServer. Essas duas tecnologias também foram utilizadas em projetos pessoas que podem ser visualizadas em: http://github.com/thayroneprog.
+
 Deste de Julho de 2017 trabalhando com Java, TypeScript e as boas práticas ágeis.
 
 Observação:
@@ -21,13 +22,15 @@ Dentre os seis anos também foram executados trabalhos com linguagem de marcaç�
 
 Objetivo
 
-Atuar na área de desenvolvimento web como:
+Atuar na área de desenvolvimento Mobile como:
 
-    Programador: na área de programação com linguagens já cidatas ou outras a mim designado;
-    Web Standart (padrões web);
-    Trabalhar com linguagem de desenvolvimento: Ruby on Rails.
+    Programador: aplicações nativas e híbridas, voltadas para qualquer segmento do mercado.
+    Web Service(API's);
+    Trabalhar com linguagem de desenvolvimento: Java, Kotlin, Swift.
 
 Em ambas os campos de atuação sempre visando aplicar meus conhecimentos para a realização das atividades a mim designada, buscando assim, desafíos e oportunidades.
+
+--------------------------------------------------------------------------------------
 Perfil Profissional
 
 
