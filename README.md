@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Thayrone Marques Silva
+
+Brasileiro,Solteiro, 24 anos
+Endereço – Rua Benedito Pacífico N° 188 
+Nossa Senhora Do Carmo – Cel. Fabriciano – Minas Gerais
+Telefone: [31]985873759 - E-mail: tkdthay9540@gmail.com
+CNH : Cat. B
 
 You can use the [editor on GitHub](https://github.com/thayroneprog/Curriculo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
