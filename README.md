@@ -24,6 +24,8 @@ Atuar na área de desenvolvimento web como:
 Em ambas os campos de atuação sempre visando aplicar meus conhecimentos para a realização das atividades a mim designada, buscando assim, desafíos e oportunidades.
 Perfil Profissional
 
+
+
 Durante os 6 anos trabalhei em um pequena equipe de desenvolvedores e designers. Nesta equipe atuava como programador. Como forma de facilitar a atualização dos sistema desenvolvidos pela empresa, fiz parte da equipe que desenvolveu um CMS (target), o qual dava maior liberdade para o usuário final e facilitava o seu trabalho. Já como programador Ruby, além de fazer a migração dos sistemas antigos para a linguagem já citada, fui responsável na configuração dos servidores (staging e production).
 Escolaridade
 
